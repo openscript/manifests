@@ -1,2 +1,4 @@
+ # Coding
+  
  - Leave changed code at least as clean as when you started working on it.
  - Coping and pasting usually leads to redundancy, which should be avoided.
